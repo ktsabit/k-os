@@ -23,8 +23,6 @@ For now, kOS can only boot and print some string.
 
 ## Getting Started
 
-Run
-
 1. Change tools variable in makefile with your cross-compilation tool path
 2. run `make` to compile and run or `make debug` to debug with GDB
 
@@ -32,7 +30,7 @@ Currently kOS is still in very early development stage, will be expand the guide
 
 ## Contributing
 
-Contributions to kOS are welcome! If you would like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
+Contributions is currently non available in the form of code. But input and suggestions are very appreciated!
 
 ## License
 
