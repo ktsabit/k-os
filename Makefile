@@ -27,7 +27,7 @@ bin/myos.bin: bin/boot.o bin/kernel.o src/kernel/linker.ld
 	
 
 bin/boot.o: src/kernel/boot.s
-	nasm -f elf32 src/kernel/boot.s -o bin/boot.o
+	${NASM} -f elf32 src/kernel/boot.s -o bin/boot.o
 
 run: bin/myos.bin
 	${QEMU} -kernel bin/myos.bin
