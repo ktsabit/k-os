@@ -12,19 +12,19 @@ For now, kOS can only boot and print some string.
 
 ## Roadmap
 
-- [x] boots
+- [x] Boots up
 - [x] GDT
 - [ ] IDT
-- [ ] libc
-- [ ] terminal
+- [ ] Libc
+- [ ] Terminal
 - [ ] VGA driver
-- [ ] file system
-- [ ] etc
+- [ ] File system
+- [ ] etc.
 
 ## Getting Started
 
-1. Change tools variable in makefile with your cross-compilation tool path
-2. run `make` to compile and run or `make debug` to debug with GDB
+1. Change tools variable in makefile with your cross-compilation tool path, you can install cross compiler by following [this guide](https://wiki.osdev.org/GCC_Cross-Compiler) 
+2. run `make` to compile and run, or `make debug` to debug with GDB
 
 Currently kOS is still in very early development stage, will be expand the guide later.  
 
