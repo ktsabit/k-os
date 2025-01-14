@@ -38,4 +38,4 @@ kOS is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding kOS, feel free to reach out to me at [ktsabit@gmail.com](mailto:ktsabit@gmail.com).
+If you have any questions or suggestions regarding kOS, feel free to reach out to me at [contact@kaisan.dev](mailto:contact@kaisan.dev).
