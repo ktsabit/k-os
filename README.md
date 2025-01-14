@@ -8,13 +8,13 @@ kOS is a hobby OS developed as a learning project to gain a deeper understanding
 
 ## Features
 
-For now, kOS can only boot and print some string.
+For now, kOS can only boot and print some string, now working on enabling interrupt.
 
 ## Roadmap
 
 - [x] Boots up
 - [x] GDT
-- [ ] IDT
+- [x] IDT
 - [ ] Libc
 - [ ] Terminal
 - [ ] VGA driver
